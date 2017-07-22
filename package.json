@@ -1,8 +1,8 @@
 {
   "name": "get-scrollingelement",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Returns a reference to the Element that scrolls the document",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "rollup -c",
     "prepublish": "npm run build"
