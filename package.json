@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Returns a reference to the Element that scrolls the document",
   "main": "lib/index.js",
+  "module": "index.js",
   "scripts": {
     "build": "rollup -c",
     "prepublish": "npm run build"
