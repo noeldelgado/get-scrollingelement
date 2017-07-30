@@ -1,6 +1,6 @@
 {
   "name": "get-scrollingelement",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Returns a reference to the Element that scrolls the document",
   "main": "lib/index.js",
   "module": "index.js",
